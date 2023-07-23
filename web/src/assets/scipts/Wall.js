@@ -2,14 +2,13 @@
  * @Author: huihui pira502@163.com
  * @Date: 2022-12-25 22:50:55
  * @LastEditors: huihui pira502@163.com
- * @LastEditTime: 2022-12-26 00:06:20
+ * @LastEditTime: 2023-07-23 09:00:58
  * @FilePath: \kob\web\src\assets\scipts\Wall.js
  * @Description: 
  * 
  * Copyright (c) 2022 by huihui pira502@163.com, All Rights Reserved. 
  */
 
-import { render } from "vue";
 import { AcGameObject } from "./AcGameObject";
 
 export class Wall extends AcGameObject {
